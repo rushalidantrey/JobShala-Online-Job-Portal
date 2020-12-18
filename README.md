@@ -9,6 +9,9 @@ Data: contains data collected and backup file of database, contains programs use
 Server: contains PHP files, and sub-directories for images, java script, css, or any library used.
 Client: contains HTML files, and sub-directories for images, java script, css, or any library used.
 
+Our Team
+We are a team of four members.
+
 Name               Enrollment _No          Email_Id
 
 Rushali Dantrey         04304092020     rushali041mca20@igdtuw.ac.in
