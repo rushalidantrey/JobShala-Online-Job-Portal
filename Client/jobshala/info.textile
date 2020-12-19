@@ -1,0 +1,4 @@
+$hostname = "sql201.epizy.com";
+	$username = "epiz_27470313";
+	$password = "nrIjhtbWAZK";
+	$dbname = "epiz_27470313_jobshala";
